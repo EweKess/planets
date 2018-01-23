@@ -1,2 +1,6 @@
 history.txt
 *.dat
+results/plots
+*.data
+#exept
+!final.data
